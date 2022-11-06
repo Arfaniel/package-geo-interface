@@ -2,6 +2,9 @@
 
 namespace Vagrant\Geo\PackageGeoInterface;
 
+/**
+ * @package thereisnospoon/package-geo-interface v1.0
+ */
 interface GeoServiceInterface
 {
     public function getIsoCode(): ?string;
