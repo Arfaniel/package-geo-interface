@@ -9,12 +9,12 @@ class ComposerStaticInit99cb0d55a27fb45e98b21e9b629bd838
     public static $prefixLengthsPsr4 = array (
         'V' => 
         array (
-            'Vagrant\\PackageGeoInterface\\' => 28,
+            'Vagrant\\Geo\\PackageGeoInterface\\' => 32,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Vagrant\\PackageGeoInterface\\' => 
+        'Vagrant\\Geo\\PackageGeoInterface\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

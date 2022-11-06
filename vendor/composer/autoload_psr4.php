@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Vagrant\\PackageGeoInterface\\' => array($baseDir . '/src'),
+    'Vagrant\\Geo\\PackageGeoInterface\\' => array($baseDir . '/src'),
 );

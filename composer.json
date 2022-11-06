@@ -1,11 +1,11 @@
 {
-    "name": "vagrant/package-geo-interface",
+    "name": "thereisnospoon/package-geo-interface",
     "description": "short description",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Vagrant\\PackageGeoInterface\\": "src/"
+            "Vagrant\\Geo\\PackageGeoInterface\\": "src/"
         }
     },
     "authors": [
